@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(209, 209, 202);
+    color: rgb(0, 0, 0);
+    
+}
+nav {
+    width: 100%;
+    display: flex;
+    position: fixed;
+    background-color: rgb(41, 38, 38);
+    overflow: hidden;
+
+}
+
+nav a {
+
+    margin: auto 20px auto 40px;
+    text-decoration: none;
+    font-weight: bold;
+
+
+}
+
+nav a {
+    float: left;
+    list-style: none;
+    margin-left: 20px;
+    color: white;
+}
